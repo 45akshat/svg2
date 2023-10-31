@@ -7,7 +7,7 @@
     ],
     "headers": [
       {
-        "source": "*.js",
+        "source": "/script.js", 
         "headers": [
           {
             "key": "Content-Type",
